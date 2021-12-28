@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.1.1](https://www.github.com/googleapis/java-texttospeech/compare/v2.1.0...v2.1.1) (2021-12-28)
+
+
+### Documentation
+
+* update comments for ListVoicesRequest ([#611](https://www.github.com/googleapis/java-texttospeech/issues/611)) ([9323550](https://www.github.com/googleapis/java-texttospeech/commit/93235503915ec6848300d05baa9c7e6a64363331))
+
 ## [2.1.0](https://www.github.com/googleapis/java-texttospeech/compare/v2.0.6...v2.1.0) (2021-12-06)
 
 
